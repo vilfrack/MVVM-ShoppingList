@@ -30,7 +30,7 @@
         android:layout_width="35dp"
         android:layout_height="35dp"
         android:layout_marginTop="16dp"
-        android:src="@drawable/ic_Delete"
+        android:src="@drawable/ic_delete"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tvName" />
 
@@ -44,7 +44,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tvAmount" />
 
     <ImageView
-        android:id="@+id/Plus"
+        android:id="@+id/ivPlus"
         android:layout_width="35dp"
         android:layout_height="35dp"
         android:layout_marginTop="16dp"
